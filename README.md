@@ -1,7 +1,7 @@
 <h1> FLUTTER SIMPLE TEST CRUDE APPLICATION</h1>
 
 # General description
-this is a simple application for test
+this is a simple application for implimenting clean architect
 
 # Technical description
 * architecture => clean architect.
